@@ -1,4 +1,0 @@
-rich
-requests
-dnspython
-httpx
